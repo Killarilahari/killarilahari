@@ -10,7 +10,6 @@
 - 💼 Completed internships in Data Analytics, Machine Learning, and Web Development
 - 🛠️ Skilled in Python, SQL, Excel, Power BI, NumPy, Pandas, Matplotlib, Seaborn, and Scikit-learn
 - 🔍 Experienced in Data Cleaning, EDA, Dashboard Development, and Predictive Modeling
-- 🌱 Currently sharpening skills in Advanced SQL, Power BI, and Machine Learning
 - 🚀 Open to Data Analyst and AI/ML Internship & Entry-Level Opportunities
 
 ---
@@ -90,11 +89,6 @@
 
 ---
 
-### 📌 Popular Repositories
-
-*[add your repository links/cards here]*
-
----
 
 ### ⚡ Quote
 
