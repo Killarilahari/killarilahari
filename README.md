@@ -56,9 +56,9 @@
 - 🔗 Repository: *[add link here]*
 
 **🛣️ Road Condition Detection using Mobile Sensor Data**
-- Built a machine learning model to detect road conditions using sensor data collected from mobile devices
-- Performed data cleaning, feature engineering, and EDA, then trained classification models to identify different road surface conditions
-- Evaluated model performance using appropriate metrics to improve prediction reliability
+- Built a Random Forest classifier using accelerometer and gyroscope sensor data to detect road surface conditions — Smooth, Rough, Speed Breaker, and Pothole — achieving 94.87% test accuracy and 96.03% cross-validated accuracy
+- Engineered 7 vibration-intensity features from raw IMU sensor readings using Python, NumPy, and Pandas including acceleration magnitude, rolling mean/std, gyroscope magnitude, and jerk for improved classification signal
+- Trained and evaluated the model using Scikit-learn with cross-validation, confusion matrix, and feature importance analysis; visualized results using Matplotlib and Seaborn with a color-coded ride timeline and road quality summary
 - 🔗 Repository: *[add link here]*
 
 **🌐 Web Development with HTML, CSS, JS**
