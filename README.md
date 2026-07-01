@@ -59,7 +59,7 @@
 - Built a Random Forest classifier using accelerometer and gyroscope sensor data to detect road surface conditions — Smooth, Rough, Speed Breaker, and Pothole — achieving 94.87% test accuracy and 96.03% cross-validated accuracy
 - Engineered 7 vibration-intensity features from raw IMU sensor readings using Python, NumPy, and Pandas including acceleration magnitude, rolling mean/std, gyroscope magnitude, and jerk for improved classification signal
 - Trained and evaluated the model using Scikit-learn with cross-validation, confusion matrix, and feature importance analysis; visualized results using Matplotlib and Seaborn with a color-coded ride timeline and road quality summary
-- 🔗 Repository: *[add link here]*
+- 🔗 Repository: *[https://github.com/Killarilahari/Road-condition-detection.git]*
 
 **🌐 Web Development with HTML, CSS, JS**
 - Built a series of front-end projects during a web development internship, covering responsive design, DOM manipulation, API integration, and performance optimization
